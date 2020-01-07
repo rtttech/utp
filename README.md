@@ -1,4 +1,4 @@
-# utp - The uTorrent Transport Protocol library.
+# utp - A Well Designed and Easy-to-Use uTorrent Transport Protocol Library.
 
 [uTP](http://www.bittorrent.org/beps/bep_0029.html) (uTorrent transport protocol) is a transport protocol which uses [Low Extra Delay Background Transport (LEDBAT)](http://datatracker.ietf.org/wg/ledbat/charter/) for its congestion controller.
 
